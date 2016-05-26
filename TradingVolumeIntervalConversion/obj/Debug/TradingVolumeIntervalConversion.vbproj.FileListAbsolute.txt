@@ -1,0 +1,11 @@
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Debug\TradingVolumeIntervalConversion.exe.config
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Debug\TradingVolumeIntervalConversion.exe
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Debug\TradingVolumeIntervalConversion.pdb
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Debug\TradingVolumeIntervalConversion.xml
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Debug\TradingVolumeIntervalConversion.vbprojResolveAssemblyReference.cache
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Debug\TradingVolumeIntervalConversion.Form1.resources
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Debug\TradingVolumeIntervalConversion.Resources.resources
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Debug\TradingVolumeIntervalConversion.vbproj.GenerateResource.Cache
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Debug\TradingVolumeIntervalConversion.exe
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Debug\TradingVolumeIntervalConversion.xml
+c:\users\lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Debug\TradingVolumeIntervalConversion.pdb
