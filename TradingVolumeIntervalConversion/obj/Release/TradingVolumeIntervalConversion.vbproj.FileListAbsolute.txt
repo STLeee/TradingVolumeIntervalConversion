@@ -1,0 +1,10 @@
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Release\TradingVolumeIntervalConversion.exe.config
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Release\TradingVolumeIntervalConversion.exe
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Release\TradingVolumeIntervalConversion.pdb
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\bin\Release\TradingVolumeIntervalConversion.xml
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Release\TradingVolumeIntervalConversion.Form1.resources
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Release\TradingVolumeIntervalConversion.Resources.resources
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Release\TradingVolumeIntervalConversion.vbproj.GenerateResource.Cache
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Release\TradingVolumeIntervalConversion.exe
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Release\TradingVolumeIntervalConversion.xml
+C:\Users\Lee\documents\visual studio 2015\Projects\TradingVolumeIntervalConversion\TradingVolumeIntervalConversion\obj\Release\TradingVolumeIntervalConversion.pdb
